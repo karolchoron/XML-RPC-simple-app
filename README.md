@@ -20,7 +20,9 @@ Instructions for running the programs (Linux):
 - Process 3: make, nextly ./server
 
 <br />
+
 --------------------------------------------------------------------
+
 <br />
 
 Projekt prostej aplikacji wykorzystującej mechanizm XML-RPC i Socket do komunikacji pomiędzy trzema procesami. <br />
