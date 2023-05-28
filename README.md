@@ -1,7 +1,8 @@
 # SOCKET XML-RPC simple application
 
-PHP, JAVA, C
-SOCKET AND XML-RPC SIMPLE COMMUNICATION APP
+<b> PHP, JAVA, C
+<br />
+SOCKET AND XML-RPC SIMPLE COMMUNICATION APP </b>
 
 --------------------------------------------------------------------
 
