@@ -15,7 +15,7 @@ The purpose of the application is to pass input text between the three processes
 <br />
 <br />
 
-Instructions for running the programs (Linux):
+Instructions for running the programs (in terminal Linux):
 - Process 1: ./process_1.php
 - Process 2: using the ./c.sh script  
 - Process 3: make, nextly ./server
@@ -35,7 +35,7 @@ Celem aplikacji jest przekazywanie wprowadzanego tekstu pomiędzy trzema procesa
 <br />
 <br />
 
-Instrukcja uruchomienia programów (Linux):
+Instrukcja uruchomienia programów (w terminalu Linux):
 - Proces 1: ./proces_1.php
 - Proces 2: użycie skryptu ./c.sh  
 - Proces 3: make a następinie ./server
